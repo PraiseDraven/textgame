@@ -1,0 +1,3 @@
+C:/Users/bob10/OneDrive/Desktop/textgame/cmake-build-debug/CMakeFiles/textgame.dir
+C:/Users/bob10/OneDrive/Desktop/textgame/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/bob10/OneDrive/Desktop/textgame/cmake-build-debug/CMakeFiles/rebuild_cache.dir
